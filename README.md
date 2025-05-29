@@ -41,7 +41,6 @@ The notebook `Loan_Project.ipynb` includes:
 
 4. **Time Trend Analysis**  
    - Loan default trends over the years  
-   - Impact of macro factors (where applicable)  
 
 ## 📊 Key Insights
 
